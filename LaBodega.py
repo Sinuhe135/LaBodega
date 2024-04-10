@@ -11,7 +11,9 @@ from Front.PaginaComprobarNube import PaginaComprobarNube
 from Front.PaginaDescagarNube import PaginaDescargarNube
 from Front.PaginaSubirNube import PaginaSubirNube
 
-#py -m PyInstaller  --icon=Media/logo.ico --noconfirm --onedir --windowed --add-data="C:\Users\Rubix\AppData\Roaming\Python\Python311\site-packages;customtkinter/"  "LaBodega.py"
+#Compilar con PyInstaller
+#py -m PyInstaller  --icon=Media/logo.ico --noconfirm --onedir --windowed --add-data="<Path de customtkinter>;customtkinter/"  "LaBodega.py"
+#Obtener path de customtkinter con pip show customtkinter
 
 class Aplicacion(customtkinter.CTk):
     def __init__(self):
