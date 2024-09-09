@@ -3,7 +3,7 @@
 Administrador de contraseñas en python con conexión FTP
 
 ## Ejecutable
-Descarga (Windows): [La bodega 1.0](https://drive.google.com/drive/folders/1X0kelwB5LFBBwHoH5cvkk0xzYuiS1aOf?usp=sharing)
+Descarga (Windows): [La bodega 1.0](https://drive.google.com/file/d/15sZDyf6HCaSC31N7Ikq74-tsnRsWgU2U/view?usp=sharing)
 
 ## Capturas
 
